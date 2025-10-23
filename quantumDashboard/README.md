@@ -1,10 +1,10 @@
-# Quantum Dashboard - Nora's UI Gallery Component
+# Quantum Dashboard - Dashboard Templates
 
 <br>
 
 <div align="center">
   <img src="src/assets/Ekran Resmi 2025-10-23 20.02.18.png" alt="Quantum Dashboard Demo" width="600"/>
-  <p><em>(Replace placeholder with actual visual preview - capture the tilt!)</em></p>
+
 </div>
 
 <br>
