@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* Uzay arka planı */
+  @apply bg-space-bg text-gray-400; 
+  /* Kaydırmayı engelle (tam ekran nebula için) */
+  overflow: hidden; 
+  min-height: 100vh; 
+}

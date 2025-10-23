@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* Uzay arka planı */
+  @apply bg-space-bg text-gray-400; 
+  /* Kaydırmayı engellemek için (dashboard tam ekran olacaksa) */
+  /* overflow: hidden; */ 
+  min-height: 100vh; /* En az ekran yüksekliği */
+}
